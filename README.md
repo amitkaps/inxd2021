@@ -1,5 +1,4 @@
-# NID INXD 2021
-## Information Visualisation Batch 2021
+## Information Visualisation NID Batch 2021
 
 ## Resources Link
 - Resources: <https://amitkaps.com/data-visualisation-resources>
