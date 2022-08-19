@@ -8,8 +8,8 @@
 ## Resources
 - Resources: <https://amitkaps.com/data-visualisation-resources>
 - Communicating with Interactive Articles: <https://distill.pub/2020/communicating-with-interactive-articles/>
-- Composing with Visual Devices - </pdfs/composing-with-visual-devices.pdf>
-- Visual Vocabulary - </pdfs/visual-vocabulary.pdf>
+- Composing with Visual Devices - [composing-with-visual-devices.pdf](/pdfs/composing-with-visual-devices.pdf)
+- Visual Vocabulary - [visual-vocabulary.pdf](/pdfs/visual-vocabulary.pdf)
 
 ## Project Selection
 - Guidelines: <https://amitkaps.com/guidelines>
