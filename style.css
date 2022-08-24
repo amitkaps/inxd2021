@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font: system-ui, sans-serif;
+  max-width: 80ch;
+  margin: 0 auto;
+  padding: 5px;
+  background-color: rgb(50,140,210);
+  color: whitesmoke;
+  background-size: 20px 20px;
+  background-image:
+    linear-gradient(to right, hsla(0, 0%, 80%, 0.2) 1px, transparent 1px),
+    linear-gradient(to bottom,  hsla(0, 0%, 80%, 0.2) 1px, transparent 1px);
+}
+
+
+h1 {
+  font-weight: 700;
+  font-variant-caps: small-caps;
+  font-size: 2rem;
+  margin-top: 4rem;
+  margin-bottom: 1.5rem;
+  line-height: 1;
+
+}
+
+h2 {
+  font-weight: 600;
+  font-style: italic;
+  font-size: 1.6rem;
+  margin-top: 2rem;
+  margin-bottom: 1.3rem;
+  line-height: 1;
+}
+
+p {
+  font-size: 1rem;
+  margin-top: 1.4rem;
+  margin-bottom: 1.4rem;
+  padding-right: 0;
+  vertical-align: baseline;
+}
+
+
+a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+li {
+  margin-top: 0.5rem;
+  font-size: 1.2rem;;
+}
